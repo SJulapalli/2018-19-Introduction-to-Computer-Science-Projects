@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Crab
+comment0.text=\n\ This\ class\ defines\ a\ crab.\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\ \n\ Act\ -\ do\ whatever\ the\ crab\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ \ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ locateAndConsumeTheEnemy()
+comment2.text=\n\ \ Seek\ and\ Destroy\ Worms\n
+comment3.params=
+comment3.target=void\ randomTurn()
+comment3.text=\n\ Turn\ a\ random\ number\ of\ degrees\ between\ 45\ &\ -45\ degrees\ 10%\ of\ the\ time.\n
+comment4.params=
+comment4.target=void\ turnAtEdge()
+comment4.text=\n\ \ Turn\ 10\ degrees\ when\ crab\ is\ at\ the\ edge\ of\ the\ world\n
+comment5.params=
+comment5.target=void\ checkKeyPress()
+comment5.text=\n\ Checks\ for\ user\ input\ to\ turn\ the\ crab\ either\ to\ the\ left\ or\ right\ when\ the\ corresponding\ arrow\ key\ is\ pressed\n
+numComments=6

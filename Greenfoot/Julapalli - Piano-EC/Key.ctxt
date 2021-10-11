@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=keyName\ soundFile\ img1\ img2
+comment1.target=Key(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ Key\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ play()
+comment3.text=\n\ Plays\ a\ sound\ set\ by\ the\ user\n
+numComments=4

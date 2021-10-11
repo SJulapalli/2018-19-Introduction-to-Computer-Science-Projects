@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Piano
+comment0.text=\n\ Name\:\ Suhas\ Julapalli\n\ Period\:\ 4\n\ Date\:\ 5/31/19\n
+comment1.params=
+comment1.target=Piano()
+comment1.text=\n\ Piano\ Constructor.\n\ Makes\ the\ keys\ for\ the\ Piano\ at\ runtime.\n
+comment2.params=
+comment2.target=void\ makeWhiteKeys()
+comment2.text=\n\ Makes\ twelve\ piano\ keys\n
+comment3.params=
+comment3.target=void\ makeBlackKeys()
+comment3.text=\n\ Makes\ 8\ black\ keys\n
+comment4.params=
+comment4.target=void\ promptPlayer()
+comment4.text=\n\ Prompts\ the\ user\ to\ "Click\ run\ to\ play\ the\ piano"\n
+comment5.params=
+comment5.target=void\ playNotes()
+comment5.text=\n\ Auto\ plays\ notes\n
+numComments=6

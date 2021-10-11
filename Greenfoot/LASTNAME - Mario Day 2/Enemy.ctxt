@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Enemies\ are\ bad\ news\ for\ Mario.\n\ \n\ YOUR\ NAME\n\ TODAY'S\ DATE\n\ \n
+comment1.params=
+comment1.target=Enemy()
+comment1.text=\n\ Enemy\ Constructor\n\ Set\ the\ initial\ Image\ to\ boo.png\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Make\ the\ Enemies\ do\ things\n
+numComments=3

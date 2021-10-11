@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coin
+comment0.text=\n\ This\ is\ the\ player's\ goal\ to\ reach\ and\ pickup\n\ \n\ Suhas\ Julapalli\n\ Period\ 4\n\ 6/2/19\n
+comment1.params=
+comment1.target=Coin()
+comment1.text=\n\ Constructor\ for\ coin.\n\ Sets\ its\ image\ as\ "coin.png"\ at\ runtime\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Coin\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\n\ This\ Cat\ is\ lazy\ and\ likes\ to\ eat\ pizza.\n
+comment1.params=
+comment1.target=Cat()
+comment1.text=\n\ Cat\ Constructor.\ \ Initializes\ variables\ and\ sets\ the\ image\ of\ the\ Cat.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Cat\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ catMove()
+comment3.text=\n\ Move\ the\ Cat\ with\ the\ arrow\ keys.\n
+comment4.params=
+comment4.target=void\ switchImageRight()
+comment4.text=\n\ Animate\ the\ Cat\ to\ the\ Right\n
+comment5.params=
+comment5.target=void\ switchImageLeft()
+comment5.text=\n\ Animate\ the\ Cat\ to\ the\ Left\n
+comment6.params=
+comment6.target=void\ eatPizza()
+comment6.text=\n\ When\ the\ cat\ finds\ a\ slice\ of\ pizza,\ its\ image\ changes\ between\ eat_pizza\ and\ eat_pizza2\ for\ a\ second\ and\ then\ switches\ back\ to\ cat_sit.\n
+numComments=7

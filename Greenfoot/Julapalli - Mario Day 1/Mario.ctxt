@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Mario
+comment0.text=\n\ This\ is\ the\ Player's\ character.\ It\ is\ capable\ of\ being\ controlled\ by\ the\ player\ using\ the\ arrow\ keys\n\ \n\ Suhas\ Julapalli\n\ Period\ 4\n\ 6/3/19\n
+comment1.params=
+comment1.target=Mario()
+comment1.text=\n\ Constructor\ for\ Mario\n\ Set's\ Mario's\ image\ as\ "mario_stand.png"\ at\ runtime.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Mario\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment3.params=
+comment3.target=void\ marioMovement()
+comment3.text=\n\ Allows\ the\ player\ to\ control\ mario's\ movement\ using\ the\ arrow\ keys\n
+comment4.params=
+comment4.target=void\ switchImage()
+comment4.text=\n\ Switches\ Mario's\ current\ image\ between\ mario1\ and\ mario2\ according\ to\ which\ Mario\ is\ currently\ set\ to.\n
+numComments=5

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pizza
+comment0.text=\n\ Pizza\ falls\ from\ the\ sky\ and\ wiggles\ and\ rotates\ as\ it\ does.\n
+comment1.params=
+comment1.target=Pizza()
+comment1.text=\n\ Constructor\ for\ Pizza.\ Sets\ Pizza's\ image\ to\ pizza1\ at\ runtime\ and\ sets\ pizza1\ to\ pizza_cheese.png.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ -\ do\ whatever\ the\ Pizza\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+numComments=3

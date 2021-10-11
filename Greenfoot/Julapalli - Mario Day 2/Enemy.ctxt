@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Enemies\ are\ bad\ news\ for\ Mario.\n\ \n\ Suhas\ Julapalli\n\ 6/4/19\n\ Period\ 4\n
+comment1.params=img1
+comment1.target=Enemy(java.lang.String)
+comment1.text=\n\ Enemy\ Constructor\n\ Set\ the\ initial\ Image\ to\ boo.png\n\ Sets\ variable\ speed\ as\ equal\ to\ a\ random\ number\ between\ 1\ and\ 5,\ inclusive.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Make\ the\ Enemies\ do\ things\n
+comment3.params=
+comment3.target=void\ moveEnemies()
+comment3.text=\n\ Moves\ the\ enemies\ horizontally\ at\ a\ random\ speed\ set\ in\ the\ "speed"\ variable.\n\ Ends\ the\ game\ if\ Enemy\ hits\ mario\ and\ plays\ "endgame.wav"\n
+numComments=4

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Write\ a\ description\ of\ class\ Enemy\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Enemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ randomlySeekBaby()
+comment2.text=\n\ Makes\ the\ teddy\ bear\ constantly\ move\ forward\ and\ randomly\ turn\ between\ -45\ and\ 45\ degrees\n
+comment3.params=
+comment3.target=void\ eliminateBaby()
+comment3.text=\n\ Ends\ the\ game\ once\ the\ teddy\ bear\ contacts\ the\ baby\ and\ plays\ the\ "au.wav"\ sound.\n
+comment4.params=
+comment4.target=void\ turnAwayFromTheInfiniteGreyVoid()
+comment4.text=\n\ Makes\ the\ teddy\ bear\ turn\ 10\ degrees\ if\ it\ reaches\ the\ edge\ of\ the\ world.\n
+numComments=5

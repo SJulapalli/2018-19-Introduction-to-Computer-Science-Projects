@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SandMonsterFoot
+comment0.text=\n\ Write\ a\ description\ of\ class\ SandMonsterFoot\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ SandMonsterFoot\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ footWalk()
+comment2.text=\n\ Movement\ method.\n\ Up\ key\ moves\ object\ up,\ down\ moves\ it\ down,\ and\ left\ and\ right\ move\ it\ left\ and\ right\ respectively\n
+comment3.params=
+comment3.target=void\ extremeSpeed()
+comment3.text=\n\ Make\ the\ SandMonster's\ foot\ move\ at\ XTR3M3\ SP33D5\!\!\!1\!\!1\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CatWorld
+comment0.text=\n\ This\ is\ a\ world\ where\ cats\ eat\ pizza\ that\ falls\ from\ the\ sky.\n
+comment1.params=
+comment1.target=CatWorld()
+comment1.text=\n\ CatWorld\ Constructor.\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Act\ method\ for\ the\ CatWorld\ class\n
+comment3.params=
+comment3.target=void\ pizzaFalling()
+comment3.text=\n\ Creates\ Falling\ pizza\ at\ random\ locations\ 2%\ of\ the\ time\n
+numComments=4

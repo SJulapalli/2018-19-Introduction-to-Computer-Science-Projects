@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Lobster
+comment0.text=\n\ Write\ a\ description\ of\ class\ Lobster\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ Lobster\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ saveWorms()
+comment2.text=\n\ Eat\ crabs\ to\ save\ worms\!\n
+comment3.params=
+comment3.target=void\ killWorms()
+comment3.text=\n\ Eat\ worms\ to\ save\ the\ world\!\n
+comment4.params=
+comment4.target=void\ turnAtEdge()
+comment4.text=\n\ Turns\ lobster\ when\ at\ the\ edge\ of\ the\ world\n
+comment5.params=
+comment5.target=void\ randomTurn()
+comment5.text=\n\ Turns\ a\ random\ number\ of\ degrees\ between\ -45\ &\ 45\ 10%\ of\ then\ time.\n
+numComments=6

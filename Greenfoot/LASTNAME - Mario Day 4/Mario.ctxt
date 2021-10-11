@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Mario
+comment0.text=\n\ Mario\ is\ the\ hero.\n\ \n\ Suhas\ Julapalli\n\ Period\ 4\n\ 6/6/19\n\ \n
+comment1.params=
+comment1.target=Mario()
+comment1.text=\n\ Mario\ Constructor\n\ Set\ initial\ image\ to\ mario_stand.\n\ Initialize\ mario1\ and\ mario2\ to\ be\ mario's\ walking\ images\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Make\ Mario\ Walk\n
+comment3.params=
+comment3.target=void\ marioMovement()
+comment3.text=\n\ Make\ Mario\ move\!\n
+comment4.params=
+comment4.target=void\ switchImage()
+comment4.text=\n\ Switch\ between\ Mario's\ walking\ images.\n
+comment5.params=
+comment5.target=void\ lookForCoin()
+comment5.text=\n\ Makes\ Mario\ pickup\ up\ coin\ if\ he\ touches\ it\n
+comment6.params=
+comment6.target=int\ totalCoins()
+comment6.text=\n\ Returns\ the\ value\ of\ variable\ coinsGathered.\n
+numComments=7

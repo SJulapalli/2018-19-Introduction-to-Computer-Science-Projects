@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=BurlapMonster
+comment0.text=\n\ Write\ a\ description\ of\ class\ BurlapMonster\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Act\ -\ do\ whatever\ the\ BurlapMonster\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment2.params=
+comment2.target=void\ confusion()
+comment2.text=\n\ Makes\ the\ Burlap\ Monster\ move\ randomly\ due\ to\ confusion\ in\ the\ negative\ zone\n
+comment3.params=
+comment3.target=void\ consumeAllCreatures()
+comment3.text=\n\ Make\ the\ Burlap\ Monster\ put\ the\ yummy\ in\ its\ tummy\n
+comment4.params=
+comment4.target=void\ turnAtEdge()
+comment4.text=\n\ Makes\ the\ Burlap\ Monster\ turn\ once\ it\ reaches\ the\ edge\ of\ the\ world.\n
+numComments=5

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\n\ Enemies\ are\ bad\ news\ for\ Mario.\n\ \n\ YOUR\ NAME\n\ TODAY'S\ DATE\n\ \n
+comment1.params=img
+comment1.target=Enemy(java.lang.String)
+comment1.text=\n\ Enemy\ Constructor\n\ Set\ the\ initial\ Image\ using\ a\ parameter.\n\ Set\ the\ speed\ variable\ to\ be\ 1-5\ inclusive\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\n\ Make\ the\ Enemies\ do\ things\n
+comment3.params=
+comment3.target=void\ moveEnemies()
+comment3.text=\n\ Move\ the\ enemies\ across\ the\ screen\ horizontally\ from\ left\ to\ right\n\ using\ speed\ as\ the\ increase\ in\ the\ x\ coordinate\ values.\n
+numComments=4
